@@ -20,4 +20,5 @@ try:
         print("Thank goodness you didn't roll the Fist...")
 
 except ValueError:
-    print("Invalid input enter an integer, please try again.")
+    print("Invalid input enter an integer,"
+          " please try again.")
